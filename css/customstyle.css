@@ -1,0 +1,29 @@
+@CHARSET "ISO-8859-1";
+body {
+	font-family: 'Gloria Hallelujah', cursive;
+}
+h2 {
+	text-align:center;
+	margin-top: 70px;
+	}
+
+input[type=button], input[type=submit], input[type=reset] {
+    background-color: #AFEEEE;
+    border: none;
+    color: white;
+    padding: 12px 26px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.formular {
+    border-radius: 5px;
+    background-color: #FFFAFA;
+    padding: 20px;
+    width: 1000px;
+}
+
+.formular input [type=text] {
+	width: 100%;
+}
